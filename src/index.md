@@ -2,7 +2,7 @@
 lang: en
 
 name: Xingmin Wang
-title: Curriculum Vitae
+# title: Curriculum Vitae
 
 # title area
 resume_title: Xingmin Wang
@@ -38,6 +38,12 @@ download:
 </center>
 {% endraw %} -->
 
+
+## <i class="fa fa-book" aria-hidden="true"></i> Introduction
+
+I am currently a fifth-year Ph.D. student in Department of Civil & Environmental Engineering at University of Michigan. I am fortunate to be advised by Dr. Henry Liu in [Michigan Traffic Lab](https://traffic.engin.umich.edu/). My research interests include traffic modeling, traffic control and management, especially with regard to connected and automated transportation. My Ph.D. dissertation is mainly about traffic state estimation and traffic signal optimization with connected vehicle data.
+
+
 ## <i class="fas fa-user-graduate"></i> Education
 
 <span style="float: right; display: inline-block;"> Sept. 2018- </span> **Ph.D. Candidate, Civil Engineering, University of Michigan**
@@ -54,10 +60,13 @@ Major in Automotive Engineering (**89.0**/100.0), Rank Top 5%
   *Transportation Research Part C: Emerging Technologies 140, 103670*, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1016/j.trc.2022.103670)
 - __Trajectory Data Processing and Mobility Performance Evaluation for Urban Traffic Networks__ (2022)
   **Xingmin Wang**, Zachary Jerome, Chenhao Zhang, Shengyin Shen, Vivek Vijaya Kumar, Henry X Liu
-  *Transportation Research Record, 03611981221115088*, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1177/0361198122111508)
+  *Transportation Research Record, 03611981221115088*, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1177/03611981221115088)
 - __Determining Yellow Change and Clearance Intervals for Left-Turning Phases: Evaluation of the Current Guidelines with Connected Vehicle Data__ (2022)
-  Zachary Jerome, **Xingmin Wang**, Shengyin Shen, Henry X Liu
+Zachary Jerome, **Xingmin Wang**, Shengyin Shen, Henry X Liu
   *Transportation Research Record, 03611981221091557*, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1177/03611981221091557)
+- __Traffic Signal Control under Stochastic Traffic Demand and Vehicle Turning via Decentralized Decomposition Approaches__ (2022)
+    Xinyu Fei, **Xingmin Wang**, Xian Yu, Yiheng Feng, Henry X. Liu, Siqian Shen, Yafeng Yin
+  *European Journal of Operational Research* (under review)
 - __Data Infrastructure for Connected Vehicle Applications__ (2020)
   **Xingmin Wang**, Shengyin Shen, Debra Bezzina, James R Sayer, Henry X Liu, Yiheng Feng
   *Transportation Research Record 2674 (5), 85-96*, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1177/0361198120912424)
@@ -80,16 +89,30 @@ Major in Automotive Engineering (**89.0**/100.0), Rank Top 5%
   Shuo Feng, Ruimin Ke, **Xingmin Wang**, Yi Zhang, Li Li
   IET Intelligent Transport Systems 11 (9), 572-580, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1049/iet-its.2016.0328)
 
-## <i class="fa-sharp fa-solid fa-school"></i> Teaching & Services
+<!-- ## <i class="fa fa-star" aria-hidden="true"></i> Featured Research
+
+<img src="figures/tree.jpg" alt="" width="300px" style="float: right; margin: 0 0 0 15px"/>
+This is a text This is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a textThis is a text -->
+
+## <i class="fa fa-desktop" aria-hidden="true"></i> Presentations
+- **Learning the max pressure control for urban traffic networks**
+2022 INFORMS, Indianapolis
+- **Max-Weight Control for Urban Traffic Networks Considering Phase Switching Loss**
+100th TRB Annual Meeting (remote)
+- **Data Infrastructure for Connected Vehicle Applications**
+99th TRB Annual Meeting, 2020, Wanshington, D.C.
+
+## <i class="fa fa-users" aria-hidden="true"></i> Teaching & Services
 
 ### Teaching
 <span style="float: right; display: inline-block;"> 2022 Fall </span> **Co-instructor** for CEE 551: Traffic Science
 <span style="float: right; display: inline-block;"> 2020 Winter </span> **Graduate Student Instructor** for CEE 450: Introduction to Transportation Engineering
-### Service
+
+### Services
 Reviewer of Transportation Research Part C: Emerging Technologies
 <span style="float: right; display: inline-block;"> 2020-2022  </span> **Vice President** of Michigan Transportation Student Organization (MiTSO)
 
-## <i class="fa-solid fa-award"></i> Award
+## <i class="fas fa-award"></i> Awards
 - <span style="float: right; display: inline-block;"> 2019 </span> Department Fellowship (Civil Engineering, University of Michigan)
 - <span style="float: right; display: inline-block;"> 2015-2018 </span> Fellowship of [Siyuan Programme](https://en.wikipedia.org/wiki/Siyuan_Programme), Tsinghua University
 - <span style="float: right; display: inline-block;"> 2015, 2016, 2017, 2018 </span> Comprehensive Scholarship (Top 5%), Tsinghua University
