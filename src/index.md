@@ -18,7 +18,7 @@ contact:
     url: https://github.com/xingminw
   - icon: ai ai-google-scholar-square
     text: Google Scholar
-    url: https://scholar.google.com/citations?user=bb-ID6YAAAAJ
+    url: https://scholar.google.com/citations?user=8HdD8tUAAAAJ
   # - icon: fab fa-linkedin
   #   text: LinkedIn
   #   url: https://www.linkedin.com/in/jacobzhong/
